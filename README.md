@@ -16,7 +16,7 @@ The site introduces several important characters, explores Jin Sakai's journey, 
 
 ## 🌐 Live Demo
 
-⚔️ **[View the Live Website](https://manibagherinezhad-ops.github.io/ghost-of-tsushima-tribute/)**
+⚔️ **[View the Live Website](https://manibagherinezhad-ops.github.io/Ghost-Of-Tsushima-Tribute-/)**
 
 ---
 
