@@ -1,0 +1,32 @@
+&:root {
+    --FirstColor: #ffffff;
+    --SecondColor: #000000;
+    --ThirdColor: #ffebcd;
+    --ForthColor: #ff0000;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'cinzel';
+    color: inherit;
+
+    &:visited {
+        color: inherit;
+    }
+}
