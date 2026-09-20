@@ -180,7 +180,7 @@ The combination creates a restrained, cinematic interface inspired by the visual
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manibagherinezhad-ops)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-bagherinezhzad-641217350/)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-bagherinezhzad-641217350/](https://www.linkedin.com/in/mani-bagherinezhad-641217350/))
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manibagherinezhad_dev/)
 
