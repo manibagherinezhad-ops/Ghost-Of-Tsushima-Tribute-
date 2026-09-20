@@ -22,32 +22,33 @@ The site introduces several important characters, explores Jin Sakai's journey, 
 
 ## 🎴 Features
 
-* 🏯 **Cinematic Hero Section**  
+* 🏯 **Cinematic Hero Section**
   A full-screen introduction to Jin Sakai with Japanese-inspired typography, atmospheric imagery, and a cinematic visual style.
 
-* ⚔️ **Characters Section**  
+* ⚔️ **Characters Section**
   Introduces four major characters from the story:
-  - Jin Sakai
-  - Yuna
-  - Lord Shimura
-  - Khotun Khan
 
-* 🩸 **Interactive Character Cards**  
+  * Jin Sakai
+  * Yuna
+  * Lord Shimura
+  * Khotun Khan
+
+* 🩸 **Interactive Character Cards**
   Character sections expand on hover using CSS transitions, revealing character names, descriptions, and additional visual elements.
 
-* 📖 **The Story**  
+* 📖 **The Story**
   A dedicated section introducing Jin Sakai's journey and the conflict between the traditional samurai path and the way of the Ghost.
 
-* 🖼️ **Gallery**  
+* 🖼️ **Gallery**
   A visual collection of moments inspired by the world of Tsushima, presented with hover effects and cinematic image treatments.
 
-* 🎨 **Japanese-Inspired Visual Design**  
+* 🎨 **Japanese-Inspired Visual Design**
   The design uses dark backgrounds, red accents, brush-inspired elements, and Japanese typography to create a samurai-inspired atmosphere.
 
-* 🖱️ **CSS Hover Interactions**  
+* 🖱️ **CSS Hover Interactions**
   Interactive effects are created using CSS transitions, pseudo-elements, Flexbox, and hover states.
 
-* 🧑‍💻 **Developer Section**  
+* 🧑‍💻 **Developer Section**
   A dedicated footer section introducing the developer with links to GitHub, LinkedIn, and Instagram.
 
 ---
@@ -96,21 +97,25 @@ ghost-of-tsushima-tribute/
 ## ⚔️ Characters Featured
 
 ### Jin Sakai
+
 **The Ghost**
 
 Once a samurai, Jin Sakai becomes the Ghost in his fight to protect Tsushima and its people.
 
 ### Yuna
+
 **The Ally**
 
 A survivor shaped by loss who fights alongside the Ghost to protect those left behind.
 
 ### Lord Shimura
+
 **The Samurai**
 
 A samurai bound by honor, tradition, and duty, and Jin Sakai's uncle and mentor.
 
 ### Khotun Khan
+
 **The Conqueror**
 
 A Mongol leader whose invasion threatens Tsushima and its people.
@@ -159,13 +164,13 @@ This project was created as a **front-end practice project** to improve skills i
 
 The visual design is built around a small set of recurring elements:
 
-**Black**  
+**Black**
 Represents the dark atmosphere and the path of the Ghost.
 
-**Red**  
+**Red**
 Used as an accent inspired by Japanese ink and the visual language of the samurai.
 
-**Warm White**  
+**Warm White**
 Used for typography and contrast against the dark backgrounds.
 
 The combination creates a restrained, cinematic interface inspired by the visual atmosphere of Tsushima.
@@ -178,11 +183,11 @@ The combination creates a restrained, cinematic interface inspired by the visual
 
 **Front-End Developer**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manibagherinezhad-ops)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/manibagherinezhad-ops)
 
-[![LinkedIn]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mani-bagherinezhad-641217350/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manibagherinezhad_dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/manibagherinezhad_dev/)
 
 ---
 
@@ -192,11 +197,11 @@ The combination creates a restrained, cinematic interface inspired by the visual
 
 **Mentor**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parsaGhorbanian)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/parsaGhorbanian)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parsa_ghorbanian_web/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/parsa_ghorbanian_web/)
 
-[![Web Design Course](https://img.shields.io/badge/Web_Design_Course-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://trainingsitedesign.ir/learn-web-design/)
+[![Web Design Course](https://img.shields.io/badge/Web_Design_Course-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://trainingsitedesign.ir/learn-web-design/)
 
 ---
 
