@@ -4,7 +4,7 @@
 
 ---
 
-## 🖤 
+## 🖤 About The Project
 
 This project is a **Ghost of Tsushima tribute website** created to practice and showcase front-end development and visual web design.
 
